@@ -1,0 +1,13 @@
+Wersja języka: Java 21
+
+Dependencies:
+    testImplementation platform('org.junit:junit-bom:5.10.0')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+    implementation 'com.google.code.gson:gson:2.8.8'
+    implementation 'org.jfree:jfreechart:1.5.3'
+
+Plugins:
+    id 'java'
+    id 'application'
+
+Używane IDE - IntelliJ IDEA Ultimate 2023.3.5
